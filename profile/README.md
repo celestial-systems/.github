@@ -6,4 +6,4 @@ We are a group (1 person so far) of computer lovers
 
 * CelestialOS 🌌
 * orion - a micro-kernel used in CelestialOS 🪐
-* troll - programming language for orion :trollface:
+* troll - programming language for orion :trollface: (WIP)
